@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "workshop03-duckdb-dbt"
+name = "w03-duckdb-dbt"
 version = "0.1.0"
 description = ""
 authors = ["Luciano Filho <lvgalvaofilho@gmail.com>"]
 readme = "README.md"
-packages = [{include = "workshop03_duckdb_dbt"}]
+packages = [{include = "w03_duckdb_dbt"}]
 
 [tool.poetry.dependencies]
 python = "3.11.5"
