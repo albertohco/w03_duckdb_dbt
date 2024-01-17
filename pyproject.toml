@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "w03-duckdb-dbt"
 version = "0.1.0"
-description = ""
+description = "Workshop 03 parte 2 - duckdb e dbt core"
 authors = ["Luciano Filho <lvgalvaofilho@gmail.com>"]
 readme = "README.md"
 packages = [{include = "w03_duckdb_dbt"}]
